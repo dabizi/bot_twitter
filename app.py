@@ -12,3 +12,6 @@ class TwitterBot:
     bot = self.bot
     bot.get('https://twitter.com/')
     time.sleep(3)
+
+    #Put the username and password below
+ed = TwitterBot('username', 'password')
