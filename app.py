@@ -53,3 +53,4 @@ ed = TwitterBot('username', 'password')
 ed.login()
   #Put the hashtag below
 ed.like_tweet('hashtag')
+  #Add random post from list of data
